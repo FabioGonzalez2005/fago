@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bano>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/9b80ffa8f94aeae0c224abf70e053fb399427000_f11e01c0bd2c4f51a71a32d2bcc93b8f.jpg</imagen>
+        <alt>armario1</alt>
+        <marca>SOBUY</marca>
+        <titulo>Mueble Columna de Baño, Armario para Baño</titulo>
+        <tituloIngles>Bathroom Column Furniture, Bathroom Cabinet</tituloIngles>
+        <precio>64,95</precio>
+        <precioAnterior>74,95</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/46177f376f3ab8bddba2e4e86af9d18bb7cb43dc_03bde6ca8bb94a4a85c2e6f8cdb3a9ee.jpg</imagen>
+        <alt>estanteria1</alt>
+        <marca>HOMCOM</marca>
+        <titulo>Estantería de Bambú para Baño Armario 36x33x140cm</titulo>
+        <tituloIngles>Bamboo Bathroom Shelf Cabinet 36x33x140cm</tituloIngles>
+        <precio>64,99</precio>
+        <precioAnterior>70,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/e9e75312ef89fb23fd5e99300fd9084d55e39637_befa1b826ce5451ba35516fc2c89569a.jpg</imagen>
+        <alt>armario2</alt>
+        <marca>SOBUY</marca>
+        <titulo>Mueble para Debajo del Lavabo Armario de Baño</titulo>
+        <tituloIngles>Under-Sink Cabinet Bathroom Furniture</tituloIngles>
+        <precio>74,95</precio>
+        <precioAnterior>85,95</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/e4c0062c33f486044ae414655ec740aa66e1ddc4_56806b7c872e47e192250cef8c9ae202.jpg</imagen>
+        <alt>cesto1</alt>
+        <marca>HOMCOM</marca>
+        <titulo>HOMCOM Cesto para Ropa Sucia Plegable con Tapa Cubo para Colada Cesta 40x30x60cm</titulo>
+        <tituloIngles>HOMCOM Foldable Laundry Basket with Lid 40x30x60cm</tituloIngles>
+        <precio>29,99</precio>
+        <precioAnterior>39,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/8a6cee6337cdcde2a394443399a576ccd2803228_91fdf4ef019d49ea9c4e8f482ee5e384.jpg</imagen>
+        <alt>cesto2</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Cesto para ropa sucia Kota con tapa, 46 x46 x 67 cm</titulo>
+        <tituloIngles>Kota Laundry Basket with Lid, 46x46x67 cm</tituloIngles>
+        <precio>59,99</precio>
+        <precioAnterior>65,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/560d7a6a5c977a6e3dcdedca0138b61255c0960b_d4bd6c7d90ed4c0cbf2416baf31460cb.jpg</imagen>
+        <alt>mampara1</alt>
+        <marca>AICA SANITARIOS</marca>
+        <titulo>Mampara de Bañera Pivotante Simple 1 Hoja Vidrio Templado 5mm con Toallero 40cm,Cromado,(79.5-80)x140cm</titulo>
+        <tituloIngles>Single Pivoting Bathtub Screen 1 Leaf Tempered Glass 5mm with Towel Rail 40cm, Chrome, (79.5-80)x140cm</tituloIngles>
+        <precio>147,00</precio>
+        <precioAnterior>160,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/12d9b2bbfa1dab0e3ac023695454a17b662adbd0_6ec8605e878b4bcfb06846dc06fe886f.jpg</imagen>
+        <alt>mampara2</alt>
+        <marca>AICA SANITARIOS</marca>
+        <titulo>Mampara de Bañera+Panel lateral,Vidrio Templado 4mm,Blanco/Gris Mate,(119.9-120.9)X(67.2-69.9)X140cm</titulo>
+        <tituloIngles>Bathtub Screen + Side Panel, Tempered Glass 4mm, White/Matte Gray, (119.9-120.9)X(67.2-69.9)X140cm</tituloIngles>
+        <precio>233,00</precio>
+        <precioAnterior>259,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/29cfb1f4c5fa3d0528b3abd08b6b41b0c28dc3e8_a87f76fd5fa849e88222729c7887f01c.jpg</imagen>
+        <alt>mampara3</alt>
+        <marca>AICA SANITARIOS</marca>
+        <titulo>Mampara de Bañera Abatible Giratoria Vidrio Templado 6 mm Rectangular con 2 Repisas y un Toallero,Cromado,(99.5-100)X140cm</titulo>
+        <tituloIngles>Hinged Rotating Bathtub Screen Tempered Glass 6mm Rectangular with 2 Shelves and a Towel Rail, Chrome, (99.5-100)X140cm</tituloIngles>
+        <precio>159,00</precio>
+        <precioAnterior>177,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/29641258946b9f831dea332622b3e17c8111ac72_3d151049ea0f44fcac39fd29673901ab.jpg</imagen>
+        <alt>mampara4</alt>
+        <marca>AICA SANITARIOS</marca>
+        <titulo>Mampara de Bañera Abatible,Vidrio Templado 6mm,Cromado, (78-80)X140cm</titulo>
+        <tituloIngles>Hinged Bathtub Screen, Tempered Glass 6mm, Chrome, (78-80)X140cm</tituloIngles>
+        <precio>123,00</precio>
+        <precioAnterior>137,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/4683c0222867744e37e070e50c583a96bdeaa4ae_937fd5f1743b4942a1a59640f6d3991f.jpg</imagen>
+        <alt>mampara5</alt>
+        <marca>AICA SANITARIOS</marca>
+        <titulo>Mampara de Bañera Abatible+Toallero,Vidrio Templado 6mm,Blanco/Gris Mate, (78-80)X140cm</titulo>
+        <tituloIngles>Hinged Bathtub Screen + Towel Rail, Tempered Glass 6mm, White/Matte Gray, (78-80)X140cm</tituloIngles>
+        <precio>112,00</precio>
+        <precioAnterior>125,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/d64691d1beff2ffd07fad2dbccf91553aaebc159_0abe35fcb820494eb65af2dffeabd698.jpg</imagen>
+        <alt>mampara6</alt>
+        <marca>AICA SANITARIOS</marca>
+        <titulo>Mampara de Bañera Plegable,Vidrio Templado 4mm, Negro Mate,(119.3-120.3)X140cm</titulo>
+        <tituloIngles>Folding Bathtub Screen, Tempered Glass 4mm, Matte Black, (119.3-120.3)X140cm</tituloIngles>
+        <precio>156,00</precio>
+        <precioAnterior>174,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/05627dde1708dde13612e1a908bee4fa4753daa3_a20b95aa985540d0a3c6139ba2326230.jpg</imagen>
+        <alt>armario3</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Mueble baño Lupe 2 puertas, espejo y lavabo, Blanco brillo</titulo>
+        <tituloIngles>Bathroom Cabinet Lupe 2 Doors, Mirror and Sink, White Gloss</tituloIngles>
+        <precio>214,99</precio>
+        <precioAnterior>408,48</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/e67b1ab305338f0565e378ffa22e72cf4abd7fa7_d0d15b6749f245938558fa098054eac5.jpg</imagen>
+        <alt>armario4</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Mueble baño Alise 3 cajones, espejo y lavabo, Roble</titulo>
+        <tituloIngles>Bathroom Cabinet Alise 3 Drawers, Mirror and Sink, Oak</tituloIngles>
+        <precio>316,99</precio>
+        <precioAnterior>602,28</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/bdb7be1f26fd3807723636b82bbc0bb5c8a2e27a_5de0a61326a645fe9fcee63abd8335e7.jpg</imagen>
+        <alt>armario5</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Mueble baño Devin 3 cajones, espejo y lavabo PMMA, Nordik</titulo>
+        <tituloIngles>Bathroom Cabinet Devin 3 Drawers, Mirror and PMMA Sink, Nordik</tituloIngles>
+        <precio>147,00</precio>
+        <precioAnterior>170,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/50565aca846bb41fde6e0526c6ac6eabb584ce0b_22d715466ee94fa08712894bf3a84a7d.jpg</imagen>
+        <alt>armario6</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Mueble baño Alise 3 cajones espejo, sin lavabo, Blanco brillo</titulo>
+        <tituloIngles>Bathroom Cabinet Alise 3 Drawers, Mirror, No Sink, White Gloss</tituloIngles>
+        <precio>129,00</precio>
+        <precioAnterior>159,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/09d02c573191d5d2ed6404b2b0beb31f17b3b949_e3df2e48b73047a28fe249c9f5ba7c37.jpg</imagen>
+        <alt>armario7</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Armario baño Devin 2 puertas, Alaska, 140 cm</titulo>
+        <tituloIngles>Bathroom Cabinet Devin 2 Doors, Alaska, 140 cm</tituloIngles>
+        <precio>84,99</precio>
+        <precioAnterior>161,48</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/f8b646e6529aa91640b55220fe429d8c35e765a7_50935102e0f245499095cc9057ab20e7.jpg</imagen>
+        <alt>armario8</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Mueble baño Clara suspendido 2 puertas espejo, sin lavabo, Nordik</titulo>
+        <tituloIngles>Suspended Bathroom Cabinet Clara 2 Doors, Mirror, No Sink, Nordik</tituloIngles>
+        <precio>142,99</precio>
+        <precioAnterior>271,68</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/7e31456f5e7c377374a6251bc8cbc5ffcd7b15e9_c776d03502174ff6b69f452a5b0f5c26.jpg</imagen>
+        <alt>armaro9</alt>
+        <marca>VS VENTA-STOCK</marca>
+        <titulo>Armario baño Alise 1 puerta 5 huecos, Alaska, 135 cm</titulo>
+        <tituloIngles>Bathroom Cabinet Alise 1 Door 5 Shelves, Alaska, 135 cm</tituloIngles>
+        <precio>114,99</precio>
+        <precioAnterior>218,48</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/9f3ded3e8040d54c5d08c75232331e00bbbb349a_4f2a41caa1db41d080a440f7aa33ba09.jpg</imagen>
+        <alt>armario10</alt>
+        <marca>DUEHOME</marca>
+        <titulo>Módulo de baño Rinconero Blanco brillo 20 x 65 x 19,5 cm</titulo>
+        <tituloIngles>Corner Bathroom Module White Gloss 20 x 65 x 19.5 cm</tituloIngles>
+        <precio>23,79</precio>
+        <precioAnterior>47,83</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+</bano>

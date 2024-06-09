@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jardin>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/ec4e73441040e02464ebbe1ac75bfb495adcc841_110970__2_.jpg</imagen>
+        <alt>planta1</alt>
+        <marca>MICA DECORATIONS</marca>
+        <titulo>Planta artificial colgante PEPEROMIA marca MYCA</titulo>
+        <tituloIngles>Hanging artificial plant PEPEROMIA by MYCA</tituloIngles>
+        <precio>9,99</precio>
+        <precioAnterior>19,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/81ca0078403324c2eddb65a24c95714c40f71852_110986__1_.jpg</imagen>
+        <alt>planta2</alt>
+        <marca>VERSA</marca>
+        <titulo>Planta artificial ELINOR con maceta</titulo>
+        <tituloIngles>Artificial plant ELINOR with pot</tituloIngles>
+        <precio>10,99</precio>
+        <precioAnterior>12,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/570a24b9c64b10463d8ea5e28c006f862a012a62_112337__1_.JPG</imagen>
+        <alt>planta3</alt>
+        <marca>ATMOSPHERA</marca>
+        <titulo>Planta artificial FICUS marca ATMOSPHERA</titulo>
+        <tituloIngles>Artificial plant FICUS by ATMOSPHERA</tituloIngles>
+        <precio>59,99</precio>
+        <precioAnterior>69,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/4ca3db1592c5daf35ecbdd981a45c4a17754d4b0_110997__2_.jpg</imagen>
+        <alt>planta4</alt>
+        <marca>MICA DECORATIONS</marca>
+        <titulo>Planta artificial FILODENDRO marca MYCA</titulo>
+        <tituloIngles>Artificial plant FILODENDRO by MYCA</tituloIngles>
+        <precio>11,90</precio>
+        <precioAnterior>15,90</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/bff78ad794eb2ca602897dd0e8a90ccb5e7f33ac_107183.jpg</imagen>
+        <alt>planta5</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Planta artificial PALMITO 127 cm</titulo>
+        <tituloIngles>Artificial plant PALMITO 127 cm</tituloIngles>
+        <precio>99,99</precio>
+        <precioAnterior>105,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/35bd1ba042ac281cef8478fb8c8e9f91751d9e75_110316.jpg</imagen>
+        <alt>planta6</alt>
+        <marca>ATMOSPHERA</marca>
+        <titulo>Planta artificial BAMBU 130 cm</titulo>
+        <tituloIngles>Artificial plant BAMBU 130 cm</tituloIngles>
+        <precio>49,90</precio>
+        <precioAnterior>55,90</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/18a3e8b663938f62f7ae481d6586f275317f6a67_766838.jpg</imagen>
+        <alt>planta7</alt>
+        <marca>ATMOSPHERA</marca>
+        <titulo>Planta artificial con macetero</titulo>
+        <tituloIngles>Artificial plant with planter</tituloIngles>
+        <precio>19,90</precio>
+        <precioAnterior>25,90</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/ab7611243b2ca1c646e9d54153b36d5d1affb78e_110983__2_.jpg</imagen>
+        <alt>planta8</alt>
+        <marca>VERSA</marca>
+        <titulo>Planta artificial ELSY con maceta</titulo>
+        <tituloIngles>Artificial plant ELSY with pot</tituloIngles>
+        <precio>14,99</precio>
+        <precioAnterior>17,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+</jardin>

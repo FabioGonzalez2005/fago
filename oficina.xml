@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<oficina>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/37185f968a7207f6eee5db808b94365e0dea7e8c_403624_01_Silla_OLAF_FR.jpg</imagen>
+        <alt>silla1</alt>
+        <marca>Kartell</marca>
+        <titulo>Silla de Escritorio giratoria OLAF</titulo>
+        <tituloIngles>OLAF swivel desk chair</tituloIngles>
+        <precio>99,00</precio>
+        <precioAnterior>150,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/00ddd550f2b6e5738576c367c49e234d1f67eafb_2402_01_Escritorio_STAMPA.jpg</imagen>
+        <alt>escritorio1</alt>
+        <marca>MAISONS</marca>
+        <titulo>Mesa de Escritorio STAMPA. Blanca</titulo>
+        <tituloIngles>STAMPA Desk. White</tituloIngles>
+        <precio>179,00</precio>
+        <precioAnterior>199,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/ebd2e9efa5b6ff38d552bc2bc802305548d3c5cf_370203_01_Escritorio_SCHEMA_FR.JPG</imagen>
+        <alt>escritorio2</alt>
+        <marca>MAISONS</marca>
+        <titulo>Mesa de Escritorio SCHEMA. Roble</titulo>
+        <tituloIngles>SCHEMA Desk. Oak</tituloIngles>
+        <precio>159,00</precio>
+        <precioAnterior>179,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/7e08e47801e2ef71874089bea3fae0c4f27cba4d_113038_01_ACTION_PLUS_FR.jpg</imagen>
+        <alt>escritorio3</alt>
+        <marca>Kartell</marca>
+        <titulo>Mesa de Escritorio ACTION PLUS 2 cajones. blanco</titulo>
+        <tituloIngles>ACTION PLUS Desk with 2 drawers. White</tituloIngles>
+        <precio>149,00</precio>
+        <precioAnterior>159,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/fd54334fb30b63486b54342caea2304bf759f51e_112774_01_Escritorio_BUTTERFLY_FR.jpg</imagen>
+        <alt>escritorio4</alt>
+        <marca>Kartell</marca>
+        <titulo>Mesa de Escritorio BUTTERFLY. blanco</titulo>
+        <tituloIngles>BUTTERFLY Desk. White</tituloIngles>
+        <precio>139,00</precio>
+        <precioAnterior>159,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/34f967b1dc76bc36e2f0a3005e8cd09ac33e61c2_7262_01_Silla_de_Oficina_DAN.jpg</imagen>
+        <alt>silla2</alt>
+        <marca>Kartell</marca>
+        <titulo>Silla de escritorio DAN de piel sintética. negra</titulo>
+        <tituloIngles>DAN synthetic leather office chair. Black</tituloIngles>
+        <precio>99,99</precio>
+        <precioAnterior>105,99</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/5db7150dd98cdf0f3ae2ae072b6e02174fc6de90_113622_01_VICENT_FR.jpg</imagen>
+        <alt>silla3</alt>
+        <marca>MAISONS</marca>
+        <titulo>Silla de Oficina VICENT. negro</titulo>
+        <tituloIngles>VICENT Office Chair. Black</tituloIngles>
+        <precio>89,99</precio>
+        <precioAnterior>99,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/79319a3ef2cc86d59e7b2c0ee1303fd932032feb_113619_01_DANILO_FR.jpg</imagen>
+        <alt>silla4</alt>
+        <marca>MAISONS</marca>
+        <titulo>Silla de Oficina DANILO gris oscuro</titulo>
+        <tituloIngles>DANILO dark grey Office Chair</tituloIngles>
+        <precio>129,99</precio>
+        <precioAnterior>159,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/efe3aeb1f977e209fa68e23be9cfb67ca48d10d9_112827_01_Silla_de_Oficina_LINE_FR.jpg</imagen>
+        <alt>silla5</alt>
+        <marca>Altacom</marca>
+        <titulo>Silla de Oficina LINE color negro</titulo>
+        <tituloIngles>LINE black Office Chair</tituloIngles>
+        <precio>59,99</precio>
+        <precioAnterior>79,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/0b53dd2ad094e3a2d8236a7e3a5a6df944fbb25c_113600_01_LUCCAS_FR.jpg</imagen>
+        <alt>silla6</alt>
+        <marca>MAISONS</marca>
+        <titulo>Silla de Oficina LUCCAS. Blanca</titulo>
+        <tituloIngles>LUCCAS white Office Chair</tituloIngles>
+        <precio>49,99</precio>
+        <precioAnterior>89,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/0ab22145eea14a14fe699005afd991d2f21def31_113601_01_Silla_LUCCAS_FR.JPG</imagen>
+        <alt>silla7</alt>
+        <marca>MAISONS</marca>
+        <titulo>Silla de Oficina LUCCAS. negra</titulo>
+        <tituloIngles>LUCCAS black Office Chair</tituloIngles>
+        <precio>49,99</precio>
+        <precioAnterior>89,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/374b4b7a831ce52a04248faf1effc4c1e9271e44_389672_1.jpg</imagen>
+        <alt>armario1</alt>
+        <marca>Altacom</marca>
+        <titulo>Set 2 puertas para estantería baja STAMPA</titulo>
+        <tituloIngles>STAMPA low shelving unit 2 doors set</tituloIngles>
+        <precio>79,90</precio>
+        <precioAnterior>89,90</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/4d15248ff11294cfbc65eb6330a042737aabe42d_107835_01.jpg</imagen>
+        <alt>silla10</alt>
+        <marca>Altacom</marca>
+        <titulo>Silla SEUL tapizado verde agua</titulo>
+        <tituloIngles>SEUL aquamarine upholstery Chair</tituloIngles>
+        <precio>105,99</precio>
+        <precioAnterior>159,99</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/4c8449054644968fcdd5bc1ee8f59fe6cfa47236_113612_01_VALERIA_FR.JPG</imagen>
+        <alt>silla9</alt>
+        <marca>MAISONS</marca>
+        <titulo>Silla de escritorio VALERIA gris oscuro</titulo>
+        <tituloIngles>VALERIA dark grey Desk Chair</tituloIngles>
+        <precio>89,99</precio>
+        <precioAnterior>129,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+</oficina>

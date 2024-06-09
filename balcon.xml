@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<balcon>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/e4dcf720c83db91dc28fe59a7a9993f731b8ce97_110300.jpg</imagen>
+        <alt>luz1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Farolillo DECO cuerda negro 14x12cm</titulo>
+        <tituloIngles>Black Rope DECO Lantern 14x12cm</tituloIngles>
+        <precio>10,99</precio>
+        <precioAnterior>12,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/346e02a61a3159ceb8004389189d3fec812954c5_115398_01.jpg</imagen>
+        <alt>almohada1</alt>
+        <marca>BANAK</marca>
+        <titulo>Cojín ATENAS 45x45 cm. color beige</titulo>
+        <tituloIngles>ATENAS Cushion 45x45 cm. beige color</tituloIngles>
+        <precio>18,99</precio>
+        <precioAnterior>21,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/6a9c8a09b3d49e1d6ed93ed14c90d58b1798b81e_100371_MAHINA_SET_SOFA_3_PLAZAS_2_SILLONES_MESA_DE_CENTRO_GRAFITO.jpg</imagen>
+        <alt>muebles1</alt>
+        <marca>SHITO</marca>
+        <titulo>Set jardín MAHINA con sofá 3 plazas, 2 sillones y mesa de centro</titulo>
+        <tituloIngles>MAHINA Garden Set with 3-Seater Sofa, 2 Armchairs, and Coffee Table</tituloIngles>
+        <precio>299,00</precio>
+        <precioAnterior>359,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/fd212fa8bf2ec6c9a36c9c7cbc3abbd6d8d835b8_115359_01.jpg</imagen>
+        <alt>muebles2</alt>
+        <marca>INFINITIME</marca>
+        <titulo>Set Mesa + Sillas Gris DENIA 2</titulo>
+        <tituloIngles>Set Table + Chairs Gray DENIA 2</tituloIngles>
+        <precio>649,00</precio>
+        <precioAnterior>699,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/bcab6c55a3049a76b585c6e38a696ed1d5133e66_115363_01.jpg</imagen>
+        <alt>parasol1</alt>
+        <marca>INFINITIME</marca>
+        <titulo>Parasol KACTUS 2 de color visón</titulo>
+        <tituloIngles>KACTUS 2 Parasol in Fawn Color</tituloIngles>
+        <precio>29,99</precio>
+        <precioAnterior>35,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/2f04360dc63c8d78d91449ea2de2500331d89f5d_115227_1.jpg</imagen>
+        <alt>muebles3</alt>
+        <marca>INFINITIME</marca>
+        <titulo>Set ANNABEL rinconera + mesa de centro color blanco/gris</titulo>
+        <tituloIngles>ANNABEL Corner Set + Coffee Table White/Gray Color</tituloIngles>
+        <precio>449,00</precio>
+        <precioAnterior>549,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/7e789162fe9fbfde1737f3dbe8d6eccfdeea1245_117029_01.jpg</imagen>
+        <alt>muebles4</alt>
+        <marca>SHITO</marca>
+        <titulo>Set de Mesa + 6 Sillas de Jardín color blanco ONIX</titulo>
+        <tituloIngles>Set of Table + 6 Garden Chairs White ONIX Color</tituloIngles>
+        <precio>399,00</precio>
+        <precioAnterior>459,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/6bf9489f3114d5150d026b9292cb8a22b1569d28_390518.jpg</imagen>
+        <alt>silla1</alt>
+        <marca>SHITO</marca>
+        <titulo>Silla de jardín modelo ACAPULCO 4</titulo>
+        <tituloIngles>ACAPULCO 4 Garden Chair</tituloIngles>
+        <precio>39,90</precio>
+        <precioAnterior>45,90</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/e1a9eb7707248ea2d021478db1abc89aa3da8485_115375_01.jpg</imagen>
+        <alt>muebles5</alt>
+        <marca>SHITO</marca>
+        <titulo>Set de 2 Sillones + Sofá + Mesade Centro color Gris FORMENTERA</titulo>
+        <tituloIngles>Set of 2 Armchairs + Sofa + Coffee Table Gray FORMENTERA Color</tituloIngles>
+        <precio>350,00</precio>
+        <precioAnterior>379,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/41131f1f5551c73f1b816c84c629956c10a1f29b_107857_01.jpg</imagen>
+        <alt>mesa1</alt>
+        <marca>BANAK</marca>
+        <titulo>Mesa redonda fija natural THER blanco 120 cm</titulo>
+        <tituloIngles>THER Fixed Natural Round Table White 120 cm</tituloIngles>
+        <precio>329,70</precio>
+        <precioAnterior>379,70</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/cfd99f923691ca9f35e44c362dba90ead0818491_111087__2_.jpg</imagen>
+        <alt>luz2</alt>
+        <marca>BANAK</marca>
+        <titulo>Aplique solar marca GRUNDING 10CM</titulo>
+        <tituloIngles>GRUNDING Solar Wall Light 10CM</tituloIngles>
+        <precio>59,90</precio>
+        <precioAnterior>69,90</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/5c0ec6fb74b4690eb5268c94f7951772111f8ac2_110247_01.jpg</imagen>
+        <alt>INFINITIME</alt>
+        <marca>BANAK</marca>
+        <titulo>Sofá balcony color antracita NOVA</titulo>
+        <tituloIngles>NOVA Balcony Sofa Anthracite Color</tituloIngles>
+        <precio>184,90</precio>
+        <precioAnterior>194,90</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/3742eec7418422d2e1dc9c56d7cfe55ff11b03e1_107204.jpg</imagen>
+        <alt>luz3</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>FAROLILLO DECO NICK VERDE 25 CM</titulo>
+        <tituloIngles>GREEN NICK DECO Lantern 25 CM</tituloIngles>
+        <precio>17,90</precio>
+        <precioAnterior>19,90</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+</balcon>

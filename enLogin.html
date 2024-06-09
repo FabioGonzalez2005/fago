@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="proyectoFinal.css">
+    <link rel="stylesheet" href="menuSuperior.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="mediaQueriesGeneral.css">
+    <title>Fago | Your Favorite Furniture</title>
+</head>
+<header>
+    <nav class="header-nav">
+        <a class="titulo" href="enProyectoFinal.html" title="Online Courses">Fago</a>
+        <ul class="menu">
+            <li class="li-header acceder">
+                <a class="opcion" href="enLogin.html">Access your account</a>
+            </li>
+            <li class="li-header">
+                <a class="boton transicionAgrandar" href="enLogin.html">Subscribe</a>
+            </li>
+            <li class="li-header">
+                <a class="opcion" href="#">
+                    <img src="imagenes/principal/iconofavoritos.png" width="20px" alt="">
+                    <p>Favorites</p>
+                </a>
+            </li>
+            <li class="li-header">
+                <a class="opcion" href="#"><img class="cesta" src="imagenes/principal/iconocesta.png" width="20px" alt=""><p>Basket</p></a>
+            </li>
+        </ul>
+        <select onchange="window.location.href = this.value;">
+            <option value="">Language</option>
+            <option value="login.html">Spanish</option>
+            <option value="enLogin.html">English</option>
+        </select>
+    </nav>
+</header>
+<body>
+    <nav class="menu-nav">
+        <!-- <ul class="vertical"> -->
+            <ul class="horizontal">
+                <li class="menu-li">
+                    <a class="menu-a transicionAgrandar2" href="enProductos.html">Products</a>
+                    <ul class="vertical1">
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="enCocina.html">Kitchen</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="enBano.html">Bathroom</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="enDormitorio.html">Bedroom</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="enSalon.html">Living Room</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="enOficina.html">Office</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="enTerraza.html">Terrace</a>
+                            <ul class="vertical2">
+                                <li class="menu-li">
+                                    <a class="menu-a transicionAgrandar2" href="enBalcon.html">Balcony</a>
+                                </li>
+                                <li class="menu-li">
+                                    <a class="menu-a transicionAgrandar2" href="enJardin.html">Garden</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-a transicionAgrandar2">
+                    <a href="enOfertas.html">Deals</a>
+                </li>
+                <li class="menu-a transicionAgrandar2">
+                    <a href="enNovedades.html">New Arrivals</a>
+                </li>
+                <li class="menu-a transicionAgrandar2">
+                    <a href="enProyectoFinal.html#sobre-nosotros">About Us</a>
+                </li>
+        </ul>
+    </nav>
+    <div class="form">
+        <ul class="tab-group">
+            <li id="signup-link" class="tab active"><a href="#signup">Sign Up</a></li>
+            <li id="login-link" class="tab"><a href="#login">Log In</a></li>
+        </ul>
+        <div class="tab-content">
+            <div id="signup-content" class="active">   
+                <h1 class="h1-reg">Sign Up</h1>
+                <form action="/" method="post">
+                    <div class="top-row">
+                        <div class="field-wrap">
+                            <input class="input-reg" type="text" required autocomplete="off" placeholder="First Name" />
+                        </div>
+                        <div class="field-wrap">
+                            <input class="input-reg" type="text" required autocomplete="off" placeholder="Last Name"/>
+                        </div>
+                    </div>
+                    <div class="field-wrap">
+                        <input class="input-reg" type="email" required autocomplete="off" placeholder="Email Address"/>
+                    </div>
+                    <div class="field-wrap">
+                        <input class="input-reg" type="password" required autocomplete="off" placeholder="Set Password"/>
+                    </div>
+                    <a class="button button-block" href="enProyectoFinal.html">Get Started</a>
+                </form>
+            </div>
+            <div id="login-content" class="hide">   
+                <h1 class="h1-reg">Welcome Back!</h1>
+                <form action="/" method="post">
+                    <div class="field-wrap">
+                        <input class="input-log" type="email" required autocomplete="off" placeholder="Email Address"/>
+                    </div>
+                    <div class="field-wrap">
+                        <input class="input-log" type="password" required autocomplete="off" placeholder="Password"/>
+                    </div>
+                    <p class="forgot"><a href="#">Forgot your password?</a></p>
+                    <a class="button button-block" href="enProyectoFinal.html">Log In</a>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <div class="footer-container">
+            <div class="footer-logo">
+                <img src="imagenes/principal/fago.webp" alt="fago-logo">
+            </div>
+            <div class="footer-sections">
+                <div class="footer-column">
+                    <h3>About Us</h3>
+                    <ul>
+                        <li><a href="enProyectoFinal.html#sobre-nosotros">About Us</a></li>
+                        <li><a href="enProyectoFinal.html#nuestra-historia">Our History</a></li>
+                        <li><a href="enProyectoFinal.html#mision-y-vision">Mission & Vision</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Services</h3>
+                    <ul>
+                        <li><a href="#">Terms and Conditions</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Cookie Policy</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Contact</h3>
+                    <ul>
+                        <li><a href="#">Email: fagosoporte@gmail.com</a></li>
+                        <li><a href="#">Phone: +123 456 789</a></li>
+                        <li><a href="#">Location: Arrecife, Juan Carlos Street 20</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-social">
+                <a class="red-social transicionAgrandar2" href="https://www.facebook.com" target="_blank"><img src="imagenes/principal/facebook-icon.png" alt="Facebook"><p>Facebook</p></a>
+                <a class="red-social transicionAgrandar2" href="https://x.com/home" target="_blank"><img src="imagenes/principal/twitter-icon.png" alt="Twitter"><p>Twitter</p></a>
+                <a class="red-social transicionAgrandar2" href="https://www.instagram.com/" target="_blank"><img src="imagenes/principal/instagram-icon.png" alt="Instagram"><p>Instagram</p></a>
+                <a class="red-social transicionAgrandar2" href="https://es.linkedin.com/" target="_blank"><img src="imagenes/principal/linkedin-icon.png" alt="LinkedIn"><p>LinkedIn</p></a>
+            </div>
+            <div class="footer-bottom">
+                <p>©2024 FAGO. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="login.js"></script>
+</body>
+</html>

@@ -1,0 +1,94 @@
+/* Menu. */
+.menu-nav {
+    position: fixed;
+    top: 70px;
+    left: 376px;
+    width: 58%;
+    z-index: 1;
+}
+.transicionAgrandar {
+    transition: transform 0.2s ease-in-out;
+}
+
+.transicionAgrandar:hover {
+    transform:scale(1.11);
+}
+
+.transicionAgrandar2 {
+    transition: transform 0.2s ease-in-out;
+}
+
+.transicionAgrandar2:hover {
+    transform:scale(1.05);
+}
+
+.transicionAgrandar3 {
+    transition: transform 0.2s ease-in-out;
+}
+
+.transicionAgrandar3:hover {
+    transform:scale(1.01);
+}
+
+.cesta {
+    transition: transform 0.2s ease-in-out;
+}
+
+.cesta:hover {
+    transform: rotate(45deg);
+}
+
+a{
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+    padding-right: 15px;
+    color: #333;
+}
+
+.menu-li{
+    width: 100px;
+    position: relative;
+} 
+
+.menu-a:hover{
+    background-color: rgb(172, 218, 187);
+}
+
+/* Menú horizontal */
+.horizontal{
+    background-color: rgb(219, 237, 219);
+    list-style-type: none;
+    display: flex;
+    width: 1150px;
+    margin: 0 auto; 
+}
+
+/* Menú vertical de nivel 1 */
+.vertical1{
+    background-color: rgb(219, 237, 219);
+    list-style-type: none;
+    display: none;
+}
+
+li:hover > .vertical1{
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-start;
+    position: absolute;
+}
+
+/* Menú vertical de nivel 2 o superior */
+.vertical2{
+    background-color: rgb(219, 237, 219);
+    list-style-type: none;
+    display: none;
+    left: 90%; top: 50%;
+}
+
+li:hover > .vertical2{
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-start;
+    position: absolute;
+}

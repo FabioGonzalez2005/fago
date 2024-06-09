@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cocina>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/40d23c1e15c8fee53d165aa841e0caf476f9fb98_eb0c118f96ef4055a1f5a08aa73a3000.jpg</imagen>
+        <alt>mantel1</alt>
+        <marca>MINT DECO</marca>
+        <titulo>Mantel lino antimanchas estampado Mira Verde 140x100 cm</titulo>
+        <tituloIngles>Printed Green Linen Stain-Resistant Tablecloth Mira 140x100 cm</tituloIngles>
+        <precio>19,99</precio>
+        <precioAnterior>38,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/28031335eff573f8dda4988e9735e07353a7980e_15275_fr.jpg</imagen>
+        <alt>estanteria1</alt>
+        <marca>MARCKERIC</marca>
+        <titulo>Buffet de cocina JASMINE blanco/haya</titulo>
+        <tituloIngles>JASMINE White/Beech Kitchen Buffet</tituloIngles>
+        <precio>249,00</precio>
+        <precioAnterior>259,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/86ee0f834ded45ab5b7dc268c03c4fb6e89ce3c5_396442_RECORTE_1_.jpg</imagen>
+        <alt>mesa1</alt>
+        <marca>FORES</marca>
+        <titulo>Mesa de cocina extensible ANNA</titulo>
+        <tituloIngles>ANNA Extendable Kitchen Table</tituloIngles>
+        <precio>129,00</precio>
+        <precioAnterior>140,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/116346fd119ab96ca7e30646bb781c581018e2a7_106841_PACK_ok.jpg</imagen>
+        <alt>taburetes1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Pack 2 uds. Taburetes ajusTables PALM grisclaro</titulo>
+        <tituloIngles>Set of 2 Adjustable PALM Light Gray Stools</tituloIngles>
+        <precio>129,00</precio>
+        <precioAnterior>189,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/acf99b0ee0596756ce3ed209a603454f38cda6a7_396275_1.jpg</imagen>
+        <alt>mesa2</alt>
+        <marca>FORES</marca>
+        <titulo>Mesa de cocina extensible Giratoria BOSTON 90 Al</titulo>
+        <tituloIngles>Rotating BOSTON 90 Al Extendable Kitchen Table</tituloIngles>
+        <precio>369,00</precio>
+        <precioAnterior>400,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/f76645650e10bd0a0c134cb422138003b2d017ee_115344_01_FRENTE_CONFO_BASIC_FCL23_FP_009904A.jpg</imagen>
+        <alt>estanteria2</alt>
+        <marca>FORES</marca>
+        <titulo>Buffet de cocina 4P CONFO BASIC blanco</titulo>
+        <tituloIngles>CONFO BASIC White 4-Door Kitchen Buffet</tituloIngles>
+        <precio>129,00</precio>
+        <precioAnterior>150,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/c7becb194dcf23fac2be40f92b204077cd8926d7_768828__FC2021_FP_0F9960A_Frontal.jpg</imagen>
+        <alt>estanteria3</alt>
+        <marca>FORES</marca>
+        <titulo>Buffet de Cocina 5P1C modelo DUERO.</titulo>
+        <tituloIngles>DUERO 5P1C Kitchen Buffet.</tituloIngles>
+        <precio>249,00</precio>
+        <precioAnterior>319,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/fd73f74b46aa7b18dc7ec42535418f6e79a9f6b3_103089__3_.jpg</imagen>
+        <alt>carrito1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Carrito Verdulero BISTRO Amarillo</titulo>
+        <tituloIngles>Yellow BISTRO Vegetable Trolley</tituloIngles>
+        <precio>29,90</precio>
+        <precioAnterior>30,90</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/0d71ed4df4df5951bf56bdf95f5acad632c5b5cf_103090__1_.jpg</imagen>
+        <alt>carrito2</alt>
+        <marca>STORGEN</marca>
+        <titulo>Carrito Verdulero STORGEN Negro</titulo>
+        <tituloIngles>Black STORGEN Vegetable Trolley</tituloIngles>
+        <precio>24,90</precio>
+        <precioAnterior>39,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/8058ec9a338467b61e6d7cc9cc0d0c6469d7bae4_FC2021_AMB_0F9920A_CONFORAMA.jpg</imagen>
+        <alt>estanteria4</alt>
+        <marca>FORES</marca>
+        <titulo>Mueble microondas 2P CUSINE II</titulo>
+        <tituloIngles>Microwave cabinet 2P CUSINE II</tituloIngles>
+        <precio>129,00</precio>
+        <precioAnterior>135,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/56716955c12ae6e252dec44961da7e3586bdde74_108396_01_FRENTE_FC10_FP_009903O_Cerrado.jpg</imagen>
+        <alt>estanteria5</alt>
+        <marca>FORES</marca>
+        <titulo>Buffet de cocina 6P CONFO BASIC blanco</titulo>
+        <tituloIngles>Kitchen buffet 6P CONFO BASIC white</tituloIngles>
+        <precio>189,00</precio>
+        <precioAnterior>199,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/5b916ca33bfd440b7892d2aceaecc0494d606b53_403433__2__1.jpg</imagen>
+        <alt>mesa3</alt>
+        <marca>NARA</marca>
+        <titulo>Mesa de cocina extensible NARA</titulo>
+        <tituloIngles>Extendable kitchen table NARA</tituloIngles>
+        <precio>109,00</precio>
+        <precioAnterior>129,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/add72961fa0839100c4fbf29eb0b1690a6c49b9d_f0c9182785a447259a6f0269636f1f67.jpg</imagen>
+        <alt>mantel2</alt>
+        <marca>MINT DECO</marca>
+        <titulo>Mantel antimanchas 100% algodón Play Blue 140x300 cm</titulo>
+        <tituloIngles>Stain-resistant tablecloth 100% cotton Play Blue 140x300 cm</tituloIngles>
+        <precio>33,99</precio>
+        <precioAnterior>87,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/d16d960cca872723083e6ee54f4770b4a299255d_700b27d665aa40ce9f927f4d30a3801b.jpg</imagen>
+        <alt>mantel3</alt>
+        <marca>SOKIOS</marca>
+        <titulo>Mantel - Verde - Mesa 90x90 (150x150)</titulo>
+        <tituloIngles>Tablecloth - Green - Table 90x90 (150x150)</tituloIngles>
+        <precio>36,95</precio>
+        <precioAnterior>52,95</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/f656a04aac0088b75905de6f54adbb0238481695_cd20a6080cb1489fbad053f58cd7a8cd.jpg</imagen>
+        <alt>servilletas1</alt>
+        <marca>MINT DECO</marca>
+        <titulo>Servilleta 100% lino Linen Lavanda 2x(45x45) cm</titulo>
+        <tituloIngles>Napkin 100% linen Linen Lavender 2x(45x45) cm</tituloIngles>
+        <precio>13,99</precio>
+        <precioAnterior>25,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/6b63e47cff7374ba3e660a0c13f8636e831bb763_107621.jpg</imagen>
+        <alt>bateria1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Batería de cocina OSAKA 5 piezas</titulo>
+        <tituloIngles>Cookware set OSAKA 5 pieces</tituloIngles>
+        <precio>87,99</precio>
+        <precioAnterior>95,99</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+</cocina>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dormitorio>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/4a4e951f24a0c2a9a84afd2b5cc98b8321136da9_RCQL1164B_C692_03.jpg</imagen>
+        <alt>cama1</alt>
+        <marca>ARTEK</marca>
+        <titulo>Cama 160x200 cm con cabecera y mesas de cabecera RICCIANO</titulo>
+        <tituloIngles>Bed 160x200 cm with headboard and bedside tables RICCIANO</tituloIngles>
+        <precio>599,00</precio>
+        <precioAnterior>630,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/932f5f62ede16875022e4cc7c7ae4ade9dc65387_vista_Q_30233_EC9790_aro_cama_con_somier_lamas_M__NACO.150x190cm.albo.jpg</imagen>
+        <alt>cama2</alt>
+        <marca>DECCO</marca>
+        <titulo>Cama BARI 150 x 190 cm con somier incluido</titulo>
+        <tituloIngles>Bed BARI 150 x 190 cm with included baseboard</tituloIngles>
+        <precio>249,00</precio>
+        <precioAnterior>279,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/37acd932b2d40bb7e75f859190f5f4a96aa1494c_760628_3.jpg</imagen>
+        <alt>armario1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Armario puertas batientes PARIS 139cm</titulo>
+        <tituloIngles>Wardrobe with swinging doors PARIS 139cm</tituloIngles>
+        <precio>299,00</precio>
+        <precioAnterior>329,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/f6efaad8e8f689d7c2d8156c5115bcaceeab9e58_765962_01.jpg</imagen>
+        <alt>cama3</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Cama madera PARIS 160X200 Blanca</titulo>
+        <tituloIngles>Wooden bed PARIS 160X200 White</tituloIngles>
+        <precio>419,00</precio>
+        <precioAnterior>420,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/9ca158dd754240f0103bc300e1dac25d961ee529_BGVS937_M783_06.jpg</imagen>
+        <alt>armario2</alt>
+        <marca>ARTEK</marca>
+        <titulo>Armario 3 puertas 1 con espejo y 2 cajones BUGANVILLA</titulo>
+        <tituloIngles>Wardrobe 3 doors 1 with mirror and 2 drawers BUGANVILLA</tituloIngles>
+        <precio>599,00</precio>
+        <precioAnterior>619,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/f6c5274086eea7f8e57072cc66468a0a30afb279_BGVK113_M765_04.jpg</imagen>
+        <alt>armario3</alt>
+        <marca>DECCO</marca>
+        <titulo>Mesita de noche 3 cajones blanco mate BUGANVILLA</titulo>
+        <tituloIngles>Nightstand 3 drawers matte white BUGANVILLA</tituloIngles>
+        <precio>119,00</precio>
+        <precioAnterior>225,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/eb127b5198f491e21d278a4ff0116dd5d7cbf443_790665_13.jpg</imagen>
+        <alt>armario4</alt>
+        <marca>DECCO</marca>
+        <titulo>Cama NAIA 90X190 Blanco Alto Brillo</titulo>
+        <tituloIngles>Bed NAIA 90X190 White High Gloss</tituloIngles>
+        <precio>149,00</precio>
+        <precioAnterior>159,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/6409bcef75fb219ffabc48abeceafa8eaf13cde1_vista_Q_13105_EC3570_sinfonier_5c.LYON_62x111cm.albo_rayado.jpg</imagen>
+        <alt>armario5</alt>
+        <marca>ARTEK</marca>
+        <titulo>Sifonier de 5 cajones BARI 62 cm</titulo>
+        <tituloIngles>Chest of drawers 5 drawers BARI 62 cm</tituloIngles>
+        <precio>169,00</precio>
+        <precioAnterior>189,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/ed976a7de8a8808726f8bcd2ea86e11b58d38626_FOTO_MIRO_BLANCO.jpg</imagen>
+        <alt>cabecero1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Cabecero MIRO blanco 160x117x6 cm</titulo>
+        <tituloIngles>Headboard MIRO white 160x117x6 cm</tituloIngles>
+        <precio>159,00</precio>
+        <precioAnterior>180,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/f6efaad8e8f689d7c2d8156c5115bcaceeab9e58_765962_01.jpg</imagen>
+        <alt>cama6</alt>
+        <marca>DEVIS</marca>
+        <titulo>Cama madera PARIS 160X200 Blanca</titulo>
+        <tituloIngles>White Wooden Bed PARIS 160X200</tituloIngles>
+        <precio>419,00 </precio>
+        <precioAnterior>500,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/4064812a2bb0b6ac9ff5a28096be8867c2a7d582_374179_01.jpg</imagen>
+        <alt>armario6</alt>
+        <marca>MADEINPARIS</marca>
+        <titulo>Mesita de noche con 2 cajones y 1 hueco PARÍS</titulo>
+        <tituloIngles>Nightstand with 2 drawers and 1 compartment PARIS</tituloIngles>
+        <precio>79,00</precio>
+        <precioAnterior>89,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/9ca158dd754240f0103bc300e1dac25d961ee529_BGVS937_M783_06.jpg</imagen>
+        <alt>armario7</alt>
+        <marca>MADEINPARIS</marca>
+        <titulo>Armario 3 puertas 1 con espejo y 2 cajones BUGANVILLA</titulo>
+        <tituloIngles>Wardrobe 3 doors 1 with mirror and 2 drawers BUGANVILLA</tituloIngles>
+        <precio>399,00</precio>
+        <precioAnterior>429,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/2379677144ee4fbf262f275e79b5815a7c762b87_CAB_ALASKA_T_PINK_160.jpg</imagen>
+        <alt>cabecero3</alt>
+        <marca>MADEINPARIS</marca>
+        <titulo>Cabecero ALASKA tela Pink 160cm x 75cm</titulo>
+        <tituloIngles>Headboard ALASKA fabric Pink 160cm x 75cm</tituloIngles>
+        <precio>189,00</precio>
+        <precioAnterior>199,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/7d1bcba7ea43daeaa68777ace2dcce70d19ac491_WEB_1012x728_32.jpg</imagen>
+        <alt>cabecero2</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Cabecero 115 x 65 cm blanco madera lacado IBIZA</titulo>
+        <tituloIngles>Headboard 115 x 65 cm lacquered white wood IBIZA</tituloIngles>
+        <precio>79,99</precio>
+        <precioAnterior>99,99</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/16aed37509d2f8c284e6a12c8941d8122091ec80_CAB_NIZA_T_CIELO_160.jpg</imagen>
+        <alt>cabecero3</alt>
+        <marca>MADEINPARIS</marca>
+        <titulo>Cabecero NIZA Cielo 160cm x 75cm tela</titulo>
+        <tituloIngles>Headboard NIZA Sky 160cm x 75cm fabric</tituloIngles>
+        <precio>139,00</precio>
+        <precioAnterior>159,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+</dormitorio>

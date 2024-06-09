@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="header.css">
+    <link rel="stylesheet" href="menuSuperior.css">
+    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="cocina.css">
+    <link rel="stylesheet" href="mediaQueriesGeneral.css">
+    <title>Fago | Tus muebles favoritos</title>
+
+<body>
+    <header>
+        <nav class="header-nav">
+            <a class="titulo" href="index.html" title="Cursos online">Fago</a>
+            <ul class="menu">
+                <li class="li-header acceder">
+                    <a class="opcion" href="login.html">Accede a tu cuenta</a>
+                </li>
+                <li class="li-header">
+                    <a class="boton transicionAgrandar" href="login.html">Suscribirse</a>
+                </li>
+                <li class="li-header">
+                    <a class="opcion" href="#">
+                        <img src="imagenes/principal/iconofavoritos.png" width="20px" alt="">
+                        <p>Favoritos</p>
+                    </a>
+                </li>
+                <li class="li-header">
+                    <a class="opcion" href="#"><img class="cesta" src="imagenes/principal/iconocesta.png" width="20px" alt=""><p>Cesta</p></a>
+                </li>
+            </ul>
+            <select onchange="window.location.href = this.value;">
+                <option value="">Idioma</option>
+                <option value="novedades.html">Español</option>
+                <option value="enNovedades.html">Inglés</option>
+            </select>
+        </nav>
+    </header>
+    <nav class="menu-nav">
+        <!-- <ul class="vertical"> -->
+            <ul class="horizontal">
+                <li class="menu-li">
+                    <a class="menu-a transicionAgrandar2" href="productos.html">Productos</a>
+                    <ul class="vertical1">
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="cocina.html">Cocina</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="bano.html">Baño</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="dormitorio.html">Dormitorio</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="salon.html">Salón</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="oficina.html">Oficina</a>
+                        </li>
+                        <li class="menu-li">
+                            <a class="menu-a transicionAgrandar2" href="terraza.html">Terraza</a>
+                            <ul class="vertical2">
+                                <li class="menu-li">
+                                    <a class="menu-a transicionAgrandar2" href="balcon.html">Balcón</a>
+                                </li>
+                                <li class="menu-li">
+                                    <a class="menu-a transicionAgrandar2" href="jardin.html">Jardín</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="menu-a transicionAgrandar2">
+                    <a href="ofertas.html">Ofertas</a>
+                </li>
+                <li class="menu-a transicionAgrandar2">
+                    <a href="novedades.html">Novedades</a>
+                </li>
+                <li class="menu-a transicionAgrandar2">
+                    <a href="index.html#sobre-nosotros">Sobre nosotros</a>
+                </li>
+        </ul>
+    </nav>
+    <main>
+        <section class="info">
+            <br><br><br><br><br>
+            <h1 class="info-titulo">Novedades de FAGO</h1>
+            <p class="info-descripcion">Descubre lo último de lo último.</p>
+        </section>
+        <section class="destacados">
+            <div class="contenedor-resultados">
+                <p class="num-resultados">29 resultados</p>
+                <div class="linea"></div>
+            </div>
+        </section>
+        <section id="resultado" class="tarjetas">
+        </section>
+        <div class="ver-mas transicionAgrandar">Ver más productos</div>
+        <div class="cantidad">1-29 de 29 productos</div>
+    </main>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-logo">
+                <img src="imagenes/principal/fago.webp" alt="logo-fago">
+            </div>
+            <div class="footer-sections">
+                <div class="footer-column">
+                    <h3>Nosotros</h3>
+                    <ul>
+                        <li><a href="index.html#sobre-nosotros">Sobre nosotros</a></li>
+                        <li><a href="index.html#nuestra-historia">Nuestra historia</a></li>
+                        <li><a href="index.html#mision-y-vision">Misión y visión</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Servicios</h3>
+                    <ul>
+                        <li><a href="#">Términos y Condiciones</a></li>
+                        <li><a href="#">Política de privacidad</a></li>
+                        <li><a href="#">Política de cookies</a></li>
+                    </ul>
+                </div>
+                <div class="footer-column">
+                    <h3>Contacto</h3>
+                    <ul>
+                        <li><p class="contacto">Email: fagosoporte@gmail.com</p></li>
+                        <li><p class="contacto">Teléfono: +123 456 789</p></li>
+                        <li><p class="contacto">Ubicación: Arrecife, Calle Juan Carlos 20</p></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-social">
+                <a class="red-social transicionAgrandar2" href="https://www.facebook.com" target="_blank"><img src="imagenes/principal/facebook-icon.png" alt="Facebook"><p>Facebook</p></a>
+                <a class="red-social transicionAgrandar2" href="https://x.com/home" target="_blank"><img src="imagenes/principal/twitter-icon.png" alt="Twitter"><p>Twitter</p></a>
+                <a class="red-social transicionAgrandar2" href="https://www.instagram.com/" target="_blank"><img src="imagenes/principal/instagram-icon.png" alt="Instagram"><p>Instagram</p></a>
+                <a class="red-social transicionAgrandar2" href="https://es.linkedin.com/" target="_blank"><img src="imagenes/principal/linkedin-icon.png" alt="LinkedIn"><p>LinkedIn</p></a>
+            </div>
+            <div class="footer-bottom">
+                <p>©2024 FAGO. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="balcon.js"></script>
+    <script src="cocina.js"></script>
+</body>
+</html>

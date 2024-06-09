@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<salon>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/ca8d78e3f625a8d3515522a5a3f6da4425696323_764493_01.jpg</imagen>
+        <alt>muebles1</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Mueble de salón NELLEKE 3 piezas</titulo>
+        <tituloIngles>NELLEKE 3-piece living room furniture</tituloIngles>
+        <precio>389,00</precio>
+        <precioAnterior>412,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/83556b770393d0c7640a85362d5c57d478f2b524_392793_1.jpg</imagen>
+        <alt>muebles2</alt>
+        <marca>KETTAL</marca>
+        <titulo>Mueble TV 1 puerta y 2 cajones INDUSTRY</titulo>
+        <tituloIngles>INDUSTRY TV stand with 1 door and 2 drawers</tituloIngles>
+        <precio>339,00</precio>
+        <precioAnterior>369,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/abceb5711bda00429d79108fe117f61e67e17769_380622__3_.jpg</imagen>
+        <alt>muebles3</alt>
+        <marca>DOCA</marca>
+        <titulo>Mueble de salón LINE color blanco y roble</titulo>
+        <tituloIngles>LINE white and oak living room furniture</tituloIngles>
+        <precio>209,00</precio>
+        <precioAnterior>219,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/166600e0df939c5133367f7b297bc3e529d4b61b_108956.jpg</imagen>
+        <alt>muebles4</alt>
+        <marca>DOCA</marca>
+        <titulo>Mueble TV SKIPPER 160cm, blanco</titulo>
+        <tituloIngles>SKIPPER 160cm white TV stand</tituloIngles>
+        <precio>199,00 </precio>
+        <precioAnterior>219,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/f0c8343fd97ff13d312ae06da059a38295e0d609_376804_01.jpg</imagen>
+        <alt>muebles5</alt>
+        <marca>KETTAL</marca>
+        <titulo>Mesa de centro elevable VERONA</titulo>
+        <tituloIngles>VERONA lift-top coffee table</tituloIngles>
+        <precio>59,00</precio>
+        <precioAnterior>78,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/bc5af757fe010bf749c982fa0b783fa223b91217_115501_01.jpg</imagen>
+        <alt>muebles6</alt>
+        <marca>CONFORAMA</marca>
+        <titulo>Mueble TV ARIEL 135 cm blanco mate</titulo>
+        <tituloIngles>ARIEL 135 cm matte white TV stand</tituloIngles>
+        <precio>69,99</precio>
+        <precioAnterior>89,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/1f5b3a0364ec82dbf1cbc61d4aefb076a67ebf9d_117490__2_.jpg</imagen>
+        <alt>muebles7</alt>
+        <marca>KETTAL</marca>
+        <titulo>Compacto tv SOLANO 297cm gris y roble</titulo>
+        <tituloIngles>SOLANO 297cm grey and oak TV unit</tituloIngles>
+        <precio>239,00</precio>
+        <precioAnterior>319,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/650by551/3e97cfa9e74a76fc71927d0f6a4fd77ec1ecf076_WEB_1012x728__114036_01___Sof___DRAKO.jpg</imagen>
+        <alt>sofa1</alt>
+        <marca>DOCA</marca>
+        <titulo>Chaise longue DRAKO reversible gris oscuro</titulo>
+        <tituloIngles>Dark Grey Reversible DRAKO Chaise Longue</tituloIngles>
+        <precio>369,00</precio>
+        <precioAnterior>379,00</precioAnterior>
+        <envio>72</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/a8d5cc2fecb050e6454bfb597154844233906ea8_764527_01.jpg</imagen>
+        <alt>sofa2</alt>
+        <marca>DOCA</marca>
+        <titulo>Chaise longue CIRO reversible color beige</titulo>
+        <tituloIngles>Beige Reversible CIRO Chaise Longue</tituloIngles>
+        <precio>429,00</precio>
+        <precioAnterior>439,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/970e29019b2c0fdb722218c96cb6165626592215_114031_01.jpg</imagen>
+        <alt>sofa3</alt>
+        <marca>ALKI</marca>
+        <titulo>Chaise longue CIAN reversible gris</titulo>
+        <tituloIngles>Grey Reversible CIAN Chaise Longue</tituloIngles>
+        <precio>449,00 </precio>
+        <precioAnterior>499,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/f10d6cdedc3222b732551c4c2a127474e1d9c394_390972_01.jpg</imagen>
+        <alt>sofa4</alt>
+        <marca>ALKI</marca>
+        <titulo>Chaise longue convertible en cama tela APRIL derecho verde</titulo>
+        <tituloIngles>Green Right APRIL Fabric Convertible Chaise Longue Bed</tituloIngles>
+        <precio>799,00</precio>
+        <precioAnterior>899,00</precioAnterior>
+        <envio>24</envio>
+    </mueble>
+    <mueble>
+        <imagen>https://medias.conforama.es/media/max1200/822d13250cac31ade8883081299614a72e982fe5_383735_01.jpg</imagen>
+        <alt>sofa5</alt>
+        <marca>ALKI</marca>
+        <titulo>Chaise longue reversible de tela con cama HARRY color gris</titulo>
+        <tituloIngles>Grey HARRY Fabric Reversible Chaise Longue with Bed</tituloIngles>
+        <precio>599,00</precio>
+        <precioAnterior>569,00</precioAnterior>
+        <envio>48</envio>
+    </mueble>
+</salon>
